@@ -30,7 +30,7 @@ Com perfil conciliador, prezando sempre pela comunicação como parte essencial 
 	<img align="center" alt="Adonis-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 	<img align="center" alt="Adonis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
-<br>
+
 
 ##
 
