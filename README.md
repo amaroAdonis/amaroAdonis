@@ -35,7 +35,7 @@ With a conciliatory profile, always valuing communication as an essential part o
 ##
 
 <p align="left">
-  💌 You can contact me using the links below.: ⤵️
+  💌 You can contact me using the links below ⤵️
 </p>
 
 <p align="left">
