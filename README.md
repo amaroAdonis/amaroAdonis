@@ -1,7 +1,6 @@
 <H2>Hi, I'm Amaro Adonis!</H2>
 
-<img src="https://raw.githubusercontent.com/amaroAdonis/amaroAdonis/main/kisspng-computer-programming-programmer-icon-design-softwa-coder-png-transparent-image-5a756d89c09351.0972296815176451937888.png
-" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/amaroAdonis/amaroAdonis/main/kisspng-computer-programming-programmer-icon-design-softwa-coder-png-transparent-image-5a756d89c09351.0972296815176451937888.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 A Professional with an engineering background, in career transition, with 15 years of experience in the mechanical industrial area, who has been working in the programming area since April 2023, looking for experience and opportunities in new projects in the area.
