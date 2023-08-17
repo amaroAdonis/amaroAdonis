@@ -1,4 +1,4 @@
-<H2>Oi, eu sou o Amaro!</H2>
+<H2>Hi, I'm Amaro Adonis!</H2>
 
 <img src="https://raw.githubusercontent.com/amaroAdonis/amaroAdonis/main/pngwing.com.png" min-width="400px" max-width="400px" width="400px" align="right">
 
