@@ -40,14 +40,14 @@ With a conciliatory profile, always valuing communication as an essential part o
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="amaro.adonis@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=amaro.adonis@gmail.com"><a>
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/amaroamorim" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaroamorim"/></a>
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5582981818166" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5582981818166"/></a>
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/amaro.adonis" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/amaro.adonis"/></a>
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/amaroadonis/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/amaroadonis/"/></a>
 </p>
