@@ -16,13 +16,18 @@ Com perfil conciliador, prezando sempre pela comunicação como parte essencial 
 
 </p>
 
-<p align="left">
-  🦄 Linguagens: Java, Javascript, Typescript, HTML, CSS, SQL
-</p>
-
-<p align="left">
-  💼 Ferramentas: Spring Boot, Angular, MySQL
-</p>
+<div style="display: inline_block"><br>
+	<img align="center" alt="Adonis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img align="center" alt="Adonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	<img align="center" alt="Adonis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+	<img align="center" alt="Adonis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img align="center" alt="Adonis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img align="center" alt="Adonis-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+	<img align="center" alt="Adonis-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+	<img align="center" alt="Adonis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+	<img align="center" alt="Adonis-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+	<img align="center" alt="Adonis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+</div>
 
 <p align="left">
   💌 Você pode entrar em contato comigo, através dos contatos abaixo: ⤵️
