@@ -16,6 +16,8 @@ Com perfil conciliador, prezando sempre pela comunicação como parte essencial 
 
 </p>
 
+##
+
 <div style="display: inline_block"><br>
 	<img align="center" alt="Adonis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	<img align="center" alt="Adonis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -28,6 +30,9 @@ Com perfil conciliador, prezando sempre pela comunicação como parte essencial 
 	<img align="center" alt="Adonis-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 	<img align="center" alt="Adonis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
+<br>
+
+##
 
 <p align="left">
   💌 Você pode entrar em contato comigo, através dos contatos abaixo: ⤵️
