@@ -1,18 +1,18 @@
-<H2>AMARO ADONIS MORAES AMORIM</H2>
+<H2>Oi, eu sou o Amaro!</H2>
 
-<img src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/amaroAdonis/amaroAdonis/main/pngwing.com.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Profissional com formação em engenharia, em transição de carreira, com 15 anos de experiência na área industrial mecânica e, que vem trabalhando na área de programação desde Abril de 2023, em busca de experiência e oportunidades em novos projetos na área.
+A Professional with an engineering background, in career transition, with 15 years of experience in the mechanical industrial area, who has been working in the programming area since April 2023, looking for experience and opportunities in new projects in the area.
 
-Com perfil conciliador, prezando sempre pela comunicação como parte essencial do trabalho. Tem se diferenciado pelo bom relacionamento em equipes de diversos portes, em algumas oportunidades no papel de líder, enfrentando e superando desafios diversos para o ideal desenvolvimento das atividades.
+With a conciliatory profile, always valuing communication as an essential part of the work. It has stood out for its good relationship with teams of different sizes, in some opportunities in the role of leader, facing and overcoming different challenges for the ideal development of activities.
 
-<strong>DESTAQUE DE QUALIFICAÇÕES</strong>
+<strong>HIGHLIGHTS</strong>
 
-●	Ótimas habilidades de comunicação e liderança, tendo lidado diretamente com clientes e liderando equipes.
-●	Perfil de resolução de problemas e com bom relacionamento interpessoal;
-●	Experiência em análise de qualidade em produtos e serviços com foco no cliente;
-●	Experiência em Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 e SQL.
+●	Great communication and leadership skills, having dealt directly with clients and leading teams;
+●	Problem solving profile and with good interpersonal skills;
+●	Experience in quality analysis of products and services with a focus on the customer;
+●	Experience in Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 and SQL.
 
 </p>
 
@@ -35,7 +35,7 @@ Com perfil conciliador, prezando sempre pela comunicação como parte essencial 
 ##
 
 <p align="left">
-  💌 Você pode entrar em contato comigo, através dos contatos abaixo: ⤵️
+  💌 You can contact me using the contacts below.: ⤵️
 </p>
 
 <p align="left">
