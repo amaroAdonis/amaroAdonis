@@ -8,11 +8,12 @@ A Professional with an engineering background, in career transition, with 15 yea
 With a conciliatory profile, always valuing communication as an essential part of the work. It has stood out for its good relationship with teams of different sizes, in some opportunities in the role of leader, facing and overcoming different challenges for the ideal development of activities.
 
 <strong>HIGHLIGHTS</strong>
-
-●	Great communication and leadership skills, having dealt directly with clients and leading teams;
-●	Problem solving profile and with good interpersonal skills;
-●	Experience in quality analysis of products and services with a focus on the customer;
-●	Experience in Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 and SQL.
+<ul>
+	<li>Great communication and leadership skills, having dealt directly with clients and leading teams;</li>
+	<li>Problem solving profile and with good interpersonal skills;</li>
+	<li>Experience in quality analysis of products and services with a focus on the customer;</li>
+	<li>Experience in Javascript/Typescript, Angular 8+, HTML5, CSS3, Spring Boot, Java 8 and SQL.</li>
+</ul>
 
 </p>
 
