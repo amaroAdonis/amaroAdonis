@@ -30,6 +30,8 @@ With a conciliatory profile, always valuing communication as an essential part o
 	<img align="center" alt="Adonis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 	<img align="center" alt="Adonis-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 	<img align="center" alt="Adonis-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+	<img align="center" alt="Adonis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/amaroAdonis/devicon/master/icons/linux/linux-original.svg">
+	<img align="center" alt="Adonis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/amaroAdonis/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 
