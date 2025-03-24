@@ -48,7 +48,7 @@ With a conciliatory profile, always valuing communication as an essential part o
   <a href="https://www.linkedin.com/in/amaroamorim" target="_blank" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaroamorim"/></a>
   <a href="https://wa.me/5582981075329" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5582981075329"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5582981818166"/></a>
   <a href="https://www.facebook.com/amaro.adonis" target="_blank" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/amaro.adonis"/></a>
   <a href="https://www.instagram.com/amaroadonis/" target="_blank" alt="Instagram">
