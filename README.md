@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0A66C2&width=600&lines=Software+Engineer;Frontend+%2F+Fullstack+Developer;Angular+%7C+React+%7C+TypeScript;AI-assisted+development+enthusiast;Open+to+remote+global+opportunities" alt="Typing SVG" />
 
 <p align="left">
-  <a href="mailto:amaro.adonis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:amaro.adonis@mailbox.org">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0LTggNS04LTVWNmw4IDUgOC01djJ6Ii8+PC9zdmc+" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/amaroamorim">
     <img src="https://img.shields.io/badge/LinkedIn-Amaro%20Adonis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -155,8 +155,8 @@ Cruzeiro do Sul University
 ## 📫 Let's connect
 
 <p align="left">
-  <a href="mailto:amaro.adonis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:amaro.adonis@mailbox.org">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0LTggNS04LTVWNmw4IDUgOC01djJ6Ii8+PC9zdmc+" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/amaroamorim">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
